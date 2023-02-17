@@ -1,7 +1,6 @@
 // secrets for remediation
 
-// 1
-var pass = "Heo?Sé?NDLKé9897D!D";
+// 1 - fixed
 
 // 2 - fixed
 
