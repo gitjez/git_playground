@@ -13,5 +13,5 @@ var mongo_uri = "mongodb+srv://admin:tralala@hohohost.mongodb.net/test?retryWrit
 my_password = "Sup3rS3cr3tPa@ssw0rd";
 
 // Again
-password = "Th1s1sSup3rS3cr3t";
+password = "ZJH2276DB375EB38W2T";
 
