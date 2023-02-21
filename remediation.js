@@ -3,8 +3,7 @@
 // 1
 var pass = "KJK23ND52";
 
-// 2
-var pass = "KJK23ND52";
+// 2 - fixed
 
 
 
