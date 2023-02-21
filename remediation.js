@@ -1,6 +1,8 @@
 // secrets for remediation
 
-// 1 - fixed
+// 1
+var secret_pass = "KJK29DHR3NB5D03ND52";
 
-// 2 - fixed
+
+
 
