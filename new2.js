@@ -1,4 +1,0 @@
-
-
-monospace = "DH7365GD7653DF735GD7653G75375D";
-
