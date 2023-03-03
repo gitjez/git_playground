@@ -1,5 +1,6 @@
 // OK
 // new comment
+// hello
 
 monpass = "Passw0rdS3cr3t";
 
