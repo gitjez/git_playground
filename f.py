@@ -1,4 +1,4 @@
 f1
 f2
-database = aws_lib.connect("AKAIF4L0LJZR78SB1GH7", "ggcdnl2ex5u32188ASR456/JKGjhz425d89sjscf");
+database = aws_lib.connect("AKIAF4L0LJZR45SB1YU1", "ggshnl2ex5u32188AWS456/JKGjhz595d89sjpoi");
 
