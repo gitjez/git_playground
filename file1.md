@@ -8,14 +8,18 @@
 Blablabla
 
 ### Sub-title 2
-Blobloblo
+Blobloblo with a list
+- item 1
+- item 2
 
 
 ## Title 2
 
 ### Sub-title 1
 Claclacla
-tralala
+tralala with a checlist
+[ ] check 1
+[ ] check 2
 
 
 ### Sub-title 2
