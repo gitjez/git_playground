@@ -15,5 +15,5 @@ my_password = "Sup3rS3cr3tPa@ssw0rd";
 // Again
 password = "ZJH2276DB375EB38W2T";
 
-slack_key = "xoxb-163213206324-FGqsdMF8t18v6N7Oq4i99vs2"
+slack_key = "xoxb-163213206324-FGqsdMF8t18v6N7Oq4i99vj1"
 
